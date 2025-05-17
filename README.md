@@ -5,4 +5,4 @@
 - Nothing! everything is built in with py.
 
 # Have fun 
-## and obviously don't expect to get free keys with this. it spam guesses so i doubt it'll have any luck.
+- and obviously don't expect to get free keys with this. it spam guesses so i doubt it'll have any luck.
